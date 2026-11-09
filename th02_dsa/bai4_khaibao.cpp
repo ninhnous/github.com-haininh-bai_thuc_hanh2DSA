@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-
 typedef struct {
     char hoten[30];
     int masv;
