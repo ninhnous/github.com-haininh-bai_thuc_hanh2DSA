@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main() {
     int h, c;
     printf("Nhap so hang va so cot: ");
